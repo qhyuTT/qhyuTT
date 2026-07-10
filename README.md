@@ -89,8 +89,8 @@ style   practical, readable, reusable</pre>
 <!-- RECENT-REPOS:START -->
 | Repository | Description | Stack | Updated |
 | --- | --- | --- | --- |
+| [codex-retry-ok](https://github.com/qhyuTT/codex-retry-ok) | codex模拟抢占中转站资源 | Shell | 2026-07-09 |
 | [Claude-retry-ok](https://github.com/qhyuTT/Claude-retry-ok) | claude重试抢占资源 | Shell | 2026-07-07 |
-| [codex-retry-ok](https://github.com/qhyuTT/codex-retry-ok) | codex模拟抢占中转站资源 | Shell | 2026-07-07 |
 | [pygen](https://github.com/qhyuTT/pygen) | Python全栈项目生成器，生成包含FastAPI后端和React前端的完整项目结构 | Python | 2026-05-07 |
 | [oracle-mcp-server](https://github.com/qhyuTT/oracle-mcp-server) | Personal notes and experiments. | Python | 2025-08-01 |
 | [zentao-tools](https://github.com/qhyuTT/zentao-tools) | 本项目是一个开源的IDEA插件，为禅道进行服务，方便使用者在IDEA中进行任务和bug的操作。 | Java | 2025-07-14 |
