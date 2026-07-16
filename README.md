@@ -89,7 +89,7 @@ style   practical, readable, reusable</pre>
 <!-- RECENT-REPOS:START -->
 | Repository | Description | Stack | Updated |
 | --- | --- | --- | --- |
-| [grok_reg_protocol_cpa](https://github.com/qhyuTT/grok_reg_protocol_cpa) | grok注册机导出为cpa格式 | Python | 2026-07-14 |
+| [grok_reg_protocol_cpa](https://github.com/qhyuTT/grok_reg_protocol_cpa) | grok注册机导出为cpa格式 | Python | 2026-07-15 |
 | [codex-retry-ok](https://github.com/qhyuTT/codex-retry-ok) | codex模拟抢占中转站资源 | Shell | 2026-07-09 |
 | [Claude-retry-ok](https://github.com/qhyuTT/Claude-retry-ok) | claude重试抢占资源 | Shell | 2026-07-07 |
 | [pygen](https://github.com/qhyuTT/pygen) | Python全栈项目生成器，生成包含FastAPI后端和React前端的完整项目结构 | Python | 2026-05-07 |
