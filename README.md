@@ -89,7 +89,7 @@ style   practical, readable, reusable</pre>
 <!-- RECENT-REPOS:START -->
 | Repository | Description | Stack | Updated |
 | --- | --- | --- | --- |
-| [kiro-proxy-stable-plugin](https://github.com/qhyuTT/kiro-proxy-stable-plugin) | 主要解决kiro反代中转站中断问题和速度缓慢问题 | Shell | 2026-07-28 |
+| [kiro-proxy-stable-plugin](https://github.com/qhyuTT/kiro-proxy-stable-plugin) | 主要解决kiro反代中转站中断问题和速度缓慢问题 | Shell | 2026-07-29 |
 | [ai-excel-agent](https://github.com/qhyuTT/ai-excel-agent) | Personal notes and experiments. | Python | 2026-07-24 |
 | [grok_reg_protocol_cpa](https://github.com/qhyuTT/grok_reg_protocol_cpa) | grok注册机导出为cpa格式 | Python | 2026-07-20 |
 | [pygen](https://github.com/qhyuTT/pygen) | Python全栈项目生成器，生成包含FastAPI后端和React前端的完整项目结构 | Python | 2026-05-07 |
