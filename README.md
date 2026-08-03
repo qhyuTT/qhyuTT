@@ -1,16 +1,14 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0EA5E9,50:22C55E,100:F59E0B&text=qhyuTT&fontAlign=50&fontAlignY=36&fontColor=ffffff&fontSize=64&desc=Backend%20Engineering%20%7C%20Developer%20Tools%20%7C%20Automation&descAlign=50&descAlignY=58&animation=fadeIn" alt="qhyuTT profile banner" />
-
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1200&color=0EA5E9&center=true&vCenter=true&width=860&lines=Building+backend+services+and+developer+tools;Reading+Java+ecosystem+source+code;Automating+boring+work+with+Python+and+Shell" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0EA5E9,50:22C55E,100:F59E0B&text=qhyuTT&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=64&desc=Backend%20%C2%B7%20Developer%20Tools%20%C2%B7%20Automation&descAlign=50&descAlignY=60&animation=fadeIn" alt="qhyuTT" />
 
   <p>
-    <a href="https://github.com/qhyuTT">
-      <img src="https://img.shields.io/badge/GitHub-qhyuTT-181717?style=for-the-badge&logo=github" alt="GitHub" />
-    </a>
-    <img src="https://komarev.com/ghpvc/?username=qhyuTT&style=for-the-badge&color=0ea5e9" alt="Profile views" />
+    <a href="https://github.com/qhyuTT"><img src="https://img.shields.io/badge/GitHub-qhyuTT-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+    <img src="https://komarev.com/ghpvc/?username=qhyuTT&style=for-the-badge&color=0ea5e9&label=Profile+views" alt="Profile views" />
     <img src="https://img.shields.io/badge/Focus-Backend%20%2B%20Tools-22C55E?style=for-the-badge" alt="Focus" />
   </p>
+
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=0EA5E9&center=true&vCenter=true&width=780&lines=Backend+services+and+developer+tools;Reading+the+Java+ecosystem+source;Automating+boring+work+with+Python+%26+Shell" alt="Typing SVG" />
 
 </div>
 
@@ -18,13 +16,12 @@
 
 <table>
   <tr>
-    <td width="62%">
+    <td width="62%" valign="top">
       <strong>I build backend services, developer tools, and automation scripts.</strong>
-      <br />
-      <br />
-      My public work is centered on the Java ecosystem, Python services, IDE tooling, project scaffolding, and practical automation. I like code that is small enough to understand, useful enough to keep, and boring enough to maintain.
+      <br /><br />
+      My public work centers on the Java ecosystem, Python services, IDE tooling, project scaffolding, and practical automation. I like code that is small enough to understand, useful enough to keep, and boring enough to maintain.
     </td>
-    <td width="38%">
+    <td width="38%" valign="top">
       <pre lang="text">focus   backend / tools / automation
 stack   Java / Python / Shell
 reading Spring / Dubbo / Netty / MyBatis
@@ -37,26 +34,46 @@ style   practical, readable, reusable</pre>
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=java,python,spring,fastapi,react,ts,js,html,css,linux,bash,git,docker,mysql,redis,maven,idea&perline=9" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=java,python,spring,fastapi,react,ts,js,html,css,linux,bash,git,docker,mysql,redis,maven,idea&perline=9" alt="Tech stack" />
 
 </div>
 
-## Featured Builds
+## Snapshot
+
+<sub>Computed from the GitHub API and committed by a daily Action — plain text, no third-party widgets, nothing to break.</sub>
+
+<!-- METRICS:START -->
+<div align="center">
 
 <table>
   <tr>
-    <td width="50%">
+    <td align="center"><strong>34</strong><br /><sub>Contributions</sub></td>
+    <td align="center"><strong>0</strong><br /><sub>Current streak</sub></td>
+    <td align="center"><strong>2</strong><br /><sub>Longest streak</sub></td>
+  </tr>
+</table>
+
+</div>
+
+<sub>Language mix and repository stats populate on the next daily refresh (or trigger the <em>Update profile README</em> workflow manually).</sub>
+<!-- METRICS:END -->
+
+## Featured builds
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/qhyuTT/pygen">pygen</a></h3>
-      <p>Python full-stack project generator for FastAPI and React projects.</p>
+      <p>Python full-stack project generator — scaffolds a complete FastAPI backend and React frontend.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
       </p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/qhyuTT/zentao-tools">zentao-tools</a></h3>
-      <p>IDEA plugin for working with ZenTao tasks and bugs inside the IDE.</p>
+      <p>IntelliJ IDEA plugin for working with ZenTao tasks and bugs without leaving the IDE.</p>
       <p>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
         <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
@@ -64,7 +81,7 @@ style   practical, readable, reusable</pre>
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/qhyuTT/oracle-mcp-server">oracle-mcp-server</a></h3>
       <p>Python MCP server experiment for database and tool integration.</p>
       <p>
@@ -72,9 +89,9 @@ style   practical, readable, reusable</pre>
         <img src="https://img.shields.io/badge/MCP-0F172A?style=flat-square" alt="MCP" />
       </p>
     </td>
-    <td width="50%">
-      <h3><a href="https://github.com/qhyuTT/codex-retry-ok">codex-retry-ok</a></h3>
-      <p>Shell automation experiment for retrying resource acquisition.</p>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/qhyuTT/kiro-proxy-stable-plugin">kiro-proxy-stable-plugin</a></h3>
+      <p>Shell tooling that stabilises a Kiro reverse-proxy relay — fewer drops, better throughput.</p>
       <p>
         <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Shell" />
         <img src="https://img.shields.io/badge/Automation-0EA5E9?style=flat-square" alt="Automation" />
@@ -83,7 +100,7 @@ style   practical, readable, reusable</pre>
   </tr>
 </table>
 
-## Recently Updated
+## Recently updated
 
 <!-- This section is generated by scripts/update-readme.py. -->
 <!-- RECENT-REPOS:START -->
@@ -97,28 +114,7 @@ style   practical, readable, reusable</pre>
 | [zentao-tools](https://github.com/qhyuTT/zentao-tools) | 本项目是一个开源的IDEA插件，为禅道进行服务，方便使用者在IDEA中进行任务和bug的操作。 | Java | 2025-07-14 |
 <!-- RECENT-REPOS:END -->
 
-## Live Metrics
-
-<div align="center">
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qhyuTT&theme=github_dark" alt="GitHub profile summary" />
-
-  <br />
-
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qhyuTT&theme=github_dark" alt="Repositories per language" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qhyuTT&theme=github_dark" alt="Most commit language" />
-
-  <br />
-
-  <img src="https://streak-stats.demolab.com?user=qhyuTT&theme=transparent&hide_border=true&ring=0EA5E9&fire=F59E0B&currStreakLabel=22C55E" alt="GitHub streak" />
-
-  <br />
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qhyuTT&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution graph" />
-
-</div>
-
-## Source Reading
+## Reading the source
 
 <table>
   <tr>
@@ -130,7 +126,5 @@ style   practical, readable, reusable</pre>
 </table>
 
 <div align="center">
-
   <sub>Good code is boring, useful, and easy to change.</sub>
-
 </div>
