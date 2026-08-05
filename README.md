@@ -51,7 +51,7 @@ style   practical, readable, reusable</pre>
     <td align="center"><strong>18</strong><br /><sub>Public repos</sub></td>
     <td align="center"><strong>6</strong><br /><sub>Stars earned</sub></td>
     <td align="center"><strong>0</strong><br /><sub>Followers</sub></td>
-    <td align="center"><strong>1</strong><br /><sub>Current streak</sub></td>
+    <td align="center"><strong>0</strong><br /><sub>Current streak</sub></td>
     <td align="center"><strong>2</strong><br /><sub>Longest streak</sub></td>
   </tr>
 </table>
