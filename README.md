@@ -49,7 +49,7 @@ style   practical, readable, reusable</pre>
   <tr>
     <td align="center"><strong>35</strong><br /><sub>Contributions</sub></td>
     <td align="center"><strong>18</strong><br /><sub>Public repos</sub></td>
-    <td align="center"><strong>6</strong><br /><sub>Stars earned</sub></td>
+    <td align="center"><strong>7</strong><br /><sub>Stars earned</sub></td>
     <td align="center"><strong>0</strong><br /><sub>Followers</sub></td>
     <td align="center"><strong>0</strong><br /><sub>Current streak</sub></td>
     <td align="center"><strong>2</strong><br /><sub>Longest streak</sub></td>
@@ -73,7 +73,7 @@ Other       ░░░░░░░░░░░░░░░░░░░░░░  
 **Contribution activity** &nbsp;·&nbsp; last 30 weeks
 
 ```text
-▁▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁█▃▁█▃
+▁▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁█▁▃▁█▃
 ```
 
 <sub>9 contributions this year &nbsp;·&nbsp; longest streak 2 days &nbsp;·&nbsp; refreshed daily</sub>
@@ -127,7 +127,7 @@ Other       ░░░░░░░░░░░░░░░░░░░░░░  
 <!-- RECENT-REPOS:START -->
 | Repository | Description | Stack | Updated |
 | --- | --- | --- | --- |
-| [kiro-proxy-stable-plugin](https://github.com/qhyuTT/kiro-proxy-stable-plugin) | 主要解决kiro反代中转站中断问题和速度缓慢问题 | Shell | 2026-08-03 |
+| [kiro-proxy-stable-plugin](https://github.com/qhyuTT/kiro-proxy-stable-plugin) | 主要解决kiro反代中转站中断问题和速度缓慢问题 | Shell | 2026-08-05 |
 | [ai-excel-agent](https://github.com/qhyuTT/ai-excel-agent) | Personal notes and experiments. | Python | 2026-07-24 |
 | [grok_reg_protocol_cpa](https://github.com/qhyuTT/grok_reg_protocol_cpa) | grok注册机导出为cpa格式 | Python | 2026-07-20 |
 | [pygen](https://github.com/qhyuTT/pygen) | Python全栈项目生成器，生成包含FastAPI后端和React前端的完整项目结构 | Python | 2026-05-07 |
