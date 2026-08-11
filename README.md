@@ -47,11 +47,11 @@ style   practical, readable, reusable</pre>
 
 <table>
   <tr>
-    <td align="center"><strong>35</strong><br /><sub>Contributions</sub></td>
-    <td align="center"><strong>18</strong><br /><sub>Public repos</sub></td>
+    <td align="center"><strong>41</strong><br /><sub>Contributions</sub></td>
+    <td align="center"><strong>20</strong><br /><sub>Public repos</sub></td>
     <td align="center"><strong>7</strong><br /><sub>Stars earned</sub></td>
     <td align="center"><strong>0</strong><br /><sub>Followers</sub></td>
-    <td align="center"><strong>0</strong><br /><sub>Current streak</sub></td>
+    <td align="center"><strong>1</strong><br /><sub>Current streak</sub></td>
     <td align="center"><strong>2</strong><br /><sub>Longest streak</sub></td>
   </tr>
 </table>
@@ -61,22 +61,22 @@ style   practical, readable, reusable</pre>
 **Language mix** &nbsp;·&nbsp; bytes across public repositories
 
 ```text
-Python      █████████████████░░░░░   78.7%
-TypeScript  ██░░░░░░░░░░░░░░░░░░░░    7.5%
-CSS         █░░░░░░░░░░░░░░░░░░░░░    4.0%
-HTML        █░░░░░░░░░░░░░░░░░░░░░    3.8%
-SCSS        █░░░░░░░░░░░░░░░░░░░░░    3.3%
-JavaScript  ░░░░░░░░░░░░░░░░░░░░░░    1.4%
-Other       ░░░░░░░░░░░░░░░░░░░░░░    1.3%
+Python      █████████████████░░░░░   76.3%
+TypeScript  █░░░░░░░░░░░░░░░░░░░░░    6.4%
+Go          █░░░░░░░░░░░░░░░░░░░░░    4.4%
+CSS         █░░░░░░░░░░░░░░░░░░░░░    3.4%
+HTML        █░░░░░░░░░░░░░░░░░░░░░    3.2%
+SCSS        █░░░░░░░░░░░░░░░░░░░░░    2.8%
+Other       █░░░░░░░░░░░░░░░░░░░░░    3.5%
 ```
 
 **Contribution activity** &nbsp;·&nbsp; last 30 weeks
 
 ```text
-▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁█▃▁▆▆▁
+▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▅▂▁▅▂█
 ```
 
-<sub>9 contributions this year &nbsp;·&nbsp; longest streak 2 days &nbsp;·&nbsp; refreshed daily</sub>
+<sub>15 contributions this year &nbsp;·&nbsp; longest streak 2 days &nbsp;·&nbsp; refreshed daily</sub>
 <!-- METRICS:END -->
 
 ## Featured builds
@@ -127,12 +127,12 @@ Other       ░░░░░░░░░░░░░░░░░░░░░░  
 <!-- RECENT-REPOS:START -->
 | Repository | Description | Stack | Updated |
 | --- | --- | --- | --- |
+| [codex-guard](https://github.com/qhyuTT/codex-guard) | 监控中转站行为、敏感行为分级提醒插件 | Go | 2026-08-10 |
+| [ai-contest-kit](https://github.com/qhyuTT/ai-contest-kit) | AI 辅助存量代码补测试的标准作业流水线 | Python | 2026-08-10 |
 | [kiro-proxy-stable-plugin](https://github.com/qhyuTT/kiro-proxy-stable-plugin) | 主要解决kiro反代中转站中断问题和速度缓慢问题 | Shell | 2026-08-05 |
 | [ai-excel-agent](https://github.com/qhyuTT/ai-excel-agent) | Personal notes and experiments. | Python | 2026-07-24 |
 | [grok_reg_protocol_cpa](https://github.com/qhyuTT/grok_reg_protocol_cpa) | grok注册机导出为cpa格式 | Python | 2026-07-20 |
 | [pygen](https://github.com/qhyuTT/pygen) | Python全栈项目生成器，生成包含FastAPI后端和React前端的完整项目结构 | Python | 2026-05-07 |
-| [oracle-mcp-server](https://github.com/qhyuTT/oracle-mcp-server) | Personal notes and experiments. | Python | 2025-08-01 |
-| [zentao-tools](https://github.com/qhyuTT/zentao-tools) | 本项目是一个开源的IDEA插件，为禅道进行服务，方便使用者在IDEA中进行任务和bug的操作。 | Java | 2025-07-14 |
 <!-- RECENT-REPOS:END -->
 
 ## Reading the source
