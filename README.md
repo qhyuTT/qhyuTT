@@ -49,7 +49,7 @@ style   practical, readable, reusable</pre>
   <tr>
     <td align="center"><strong>37</strong><br /><sub>Contributions</sub></td>
     <td align="center"><strong>20</strong><br /><sub>Public repos</sub></td>
-    <td align="center"><strong>7</strong><br /><sub>Stars earned</sub></td>
+    <td align="center"><strong>8</strong><br /><sub>Stars earned</sub></td>
     <td align="center"><strong>0</strong><br /><sub>Followers</sub></td>
     <td align="center"><strong>0</strong><br /><sub>Current streak</sub></td>
     <td align="center"><strong>2</strong><br /><sub>Longest streak</sub></td>
@@ -61,13 +61,13 @@ style   practical, readable, reusable</pre>
 **Language mix** &nbsp;·&nbsp; bytes across public repositories
 
 ```text
-Python      █████████████████░░░░░   75.7%
-TypeScript  █░░░░░░░░░░░░░░░░░░░░░    5.8%
-HTML        █░░░░░░░░░░░░░░░░░░░░░    4.3%
-Go          █░░░░░░░░░░░░░░░░░░░░░    4.0%
+Python      █████████████████░░░░░   75.9%
+TypeScript  █░░░░░░░░░░░░░░░░░░░░░    5.6%
+HTML        █░░░░░░░░░░░░░░░░░░░░░    4.5%
+Go          █░░░░░░░░░░░░░░░░░░░░░    3.9%
 Shell       █░░░░░░░░░░░░░░░░░░░░░    3.2%
 CSS         █░░░░░░░░░░░░░░░░░░░░░    3.0%
-Other       █░░░░░░░░░░░░░░░░░░░░░    4.0%
+Other       █░░░░░░░░░░░░░░░░░░░░░    3.9%
 ```
 
 **Contribution activity** &nbsp;·&nbsp; last 30 weeks
@@ -127,9 +127,9 @@ Other       █░░░░░░░░░░░░░░░░░░░░░  
 <!-- RECENT-REPOS:START -->
 | Repository | Description | Stack | Updated |
 | --- | --- | --- | --- |
-| [insightface](https://github.com/qhyuTT/insightface) | 2D人脸识别检测 | Python | 2026-08-24 |
+| [kiro-proxy-stable-plugin](https://github.com/qhyuTT/kiro-proxy-stable-plugin) | 主要解决kiro反代中转站中断问题和速度缓慢问题 | Shell | 2026-08-25 |
+| [insightface](https://github.com/qhyuTT/insightface) | 2D人脸识别检测 | Python | 2026-08-25 |
 | [codex-guard](https://github.com/qhyuTT/codex-guard) | 监控中转站行为、敏感行为分级提醒插件 | Go | 2026-08-10 |
-| [kiro-proxy-stable-plugin](https://github.com/qhyuTT/kiro-proxy-stable-plugin) | 主要解决kiro反代中转站中断问题和速度缓慢问题 | Shell | 2026-08-05 |
 | [ai-excel-agent](https://github.com/qhyuTT/ai-excel-agent) | Personal notes and experiments. | Python | 2026-07-24 |
 | [grok_reg_protocol_cpa](https://github.com/qhyuTT/grok_reg_protocol_cpa) | grok注册机导出为cpa格式 | Python | 2026-07-20 |
 | [pygen](https://github.com/qhyuTT/pygen) | Python全栈项目生成器，生成包含FastAPI后端和React前端的完整项目结构 | Python | 2026-05-07 |
