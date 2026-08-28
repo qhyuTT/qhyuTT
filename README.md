@@ -61,11 +61,11 @@ style   practical, readable, reusable</pre>
 **Language mix** &nbsp;·&nbsp; bytes across public repositories
 
 ```text
-Python      █████████████████░░░░░   76.7%
-TypeScript  █░░░░░░░░░░░░░░░░░░░░░    5.4%
-HTML        █░░░░░░░░░░░░░░░░░░░░░    4.5%
+Python      █████████████████░░░░░   77.1%
+TypeScript  █░░░░░░░░░░░░░░░░░░░░░    5.3%
+HTML        █░░░░░░░░░░░░░░░░░░░░░    4.4%
 Go          █░░░░░░░░░░░░░░░░░░░░░    3.7%
-Shell       █░░░░░░░░░░░░░░░░░░░░░    3.1%
+Shell       █░░░░░░░░░░░░░░░░░░░░░    3.0%
 CSS         █░░░░░░░░░░░░░░░░░░░░░    2.8%
 Other       █░░░░░░░░░░░░░░░░░░░░░    3.7%
 ```
@@ -73,7 +73,7 @@ Other       █░░░░░░░░░░░░░░░░░░░░░  
 **Contribution activity** &nbsp;·&nbsp; last 30 weeks
 
 ```text
-▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁█▁▃▁█▃▆▁▁
+▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁█▁▃▆▃▃▆▁▁
 ```
 
 <sub>11 contributions this year &nbsp;·&nbsp; longest streak 2 days &nbsp;·&nbsp; refreshed daily</sub>
@@ -127,7 +127,7 @@ Other       █░░░░░░░░░░░░░░░░░░░░░  
 <!-- RECENT-REPOS:START -->
 | Repository | Description | Stack | Updated |
 | --- | --- | --- | --- |
-| [insightface](https://github.com/qhyuTT/insightface) | 2D人脸识别检测 | Python | 2026-08-27 |
+| [insightface](https://github.com/qhyuTT/insightface) | 2D人脸识别检测 | Python | 2026-08-28 |
 | [kiro-proxy-stable-plugin](https://github.com/qhyuTT/kiro-proxy-stable-plugin) | 主要解决kiro反代中转站中断问题和速度缓慢问题 | Shell | 2026-08-25 |
 | [codex-guard](https://github.com/qhyuTT/codex-guard) | 监控中转站行为、敏感行为分级提醒插件 | Go | 2026-08-10 |
 | [ai-excel-agent](https://github.com/qhyuTT/ai-excel-agent) | Personal notes and experiments. | Python | 2026-07-24 |
