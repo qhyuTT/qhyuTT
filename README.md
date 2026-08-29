@@ -61,13 +61,13 @@ style   practical, readable, reusable</pre>
 **Language mix** &nbsp;·&nbsp; bytes across public repositories
 
 ```text
-Python      █████████████████░░░░░   77.1%
-TypeScript  █░░░░░░░░░░░░░░░░░░░░░    5.3%
+Python      █████████████████░░░░░   77.4%
+TypeScript  █░░░░░░░░░░░░░░░░░░░░░    5.2%
 HTML        █░░░░░░░░░░░░░░░░░░░░░    4.4%
-Go          █░░░░░░░░░░░░░░░░░░░░░    3.7%
+Go          █░░░░░░░░░░░░░░░░░░░░░    3.6%
 Shell       █░░░░░░░░░░░░░░░░░░░░░    3.0%
-CSS         █░░░░░░░░░░░░░░░░░░░░░    2.8%
-Other       █░░░░░░░░░░░░░░░░░░░░░    3.7%
+CSS         █░░░░░░░░░░░░░░░░░░░░░    2.7%
+Other       █░░░░░░░░░░░░░░░░░░░░░    3.6%
 ```
 
 **Contribution activity** &nbsp;·&nbsp; last 30 weeks
